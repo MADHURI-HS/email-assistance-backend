@@ -94,16 +94,6 @@ Aspiring Software Engineer | Backend & Full-Stack Learner
 ## 📜 License
 This project is open-source and intended for learning and educational purposes.
 
----
-
-## ✅ After Adding README (Don’t Skip)
-From your backend project terminal:
-
-```bash
-git add README.md
-git commit -m "Add professional backend README"
-git push
-```
 
 
 
