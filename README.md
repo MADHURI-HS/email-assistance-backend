@@ -9,11 +9,15 @@ This backend is designed with clean architecture and scalability in mind, making
 ---
 
 ## 🚀 Features
-- RESTful API development using Spring Boot
-- Structured request and response handling
-- Layered architecture (Controller, Service)
-- Easy integration with frontend applications
-- Ready for database and AI integration
+🚀 Features
+- RESTful APIs for email assistance requests
+- Controller–Service layered architecture
+- Centralized exception handling
+- Input validation for API requests
+- Structured JSON responses
+- Ready for database integration
+- Clean and scalable Spring Boot project setup
+
 
 ---
 
